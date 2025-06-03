@@ -1,0 +1,125 @@
+Judul,Penulis,ISBN,Tahun,Kategori
+The Art of Coding,Jane Doe,978-1234567890,2021,Programming
+Machine Learning Basics,John Smith,978-0987654321,2022,Artificial Intelligence
+Python for Everyone,Emily Clark,978-1122334455,2020,Programming
+Modern Web Design,Michael Brown,978-2233445566,2019,Web Development
+Introduction to Algorithms,Thomas Lee,978-3344556677,2018,Computer Science
+Deep Learning with Python,Sarah Kim,978-4455667788,2023,Artificial Intelligence
+Data Science Handbook,David Wilson,978-5566778899,2021,Data Science
+Cloud Computing Essentials,Linda Martinez,978-6677889900,2022,Cloud Computing
+Mobile App Development,Chris Evans,978-7788990011,2020,Mobile Development
+Cybersecurity Fundamentals,Anna White,978-8899001122,2021,Cybersecurity
+Database Management Systems,Robert Green,978-9900112233,2019,Database
+JavaScript in Action,Jessica Hall,978-1011121314,2022,Programming
+Network Security Guide,Daniel Young,978-1213141516,2023,Networking
+Operating Systems Concepts,Patricia King,978-1314151617,2018,Computer Science
+Big Data Analytics,Steven Wright,978-1415161718,2021,Data Science
+Artificial Intelligence Today,Laura Scott,978-1516171819,2022,Artificial Intelligence
+Software Engineering Principles,Kevin Adams,978-1617181920,2020,Software Engineering
+Blockchain Revolution,Nancy Baker,978-1718192021,2023,Blockchain
+Game Development Basics,Matthew Perez,978-1819202122,2021,Game Development
+UI/UX Design Patterns,Rebecca Turner,978-1920212223,2022,Design
+C++ Programming Guide,Joshua Phillips,978-2021222324,2019,Programming
+Linux Administration,Stephanie Campbell,978-2122232425,2020,System Administration
+Agile Project Management,Anthony Parker,978-2223242526,2021,Project Management
+Digital Marketing 101,Kimberly Evans,978-2324252627,2022,Marketing
+IoT for Beginners,Edward Collins,978-2425262728,2023,Internet of Things
+Quantum Computing Intro,Angela Stewart,978-2526272829,2021,Quantum Computing
+PHP and MySQL Web Dev,Frank Murphy,978-2627282930,2020,Web Development
+Swift Programming,Carolyn Reed,978-2728293031,2022,Programming
+Android App Projects,Brandon Cox,978-2829303132,2021,Mobile Development
+Ethical Hacking,Melissa Ward,978-2930313233,2023,Cybersecurity
+Java Programming Masterclass,Richard Johnson,978-3031323334,2020,Programming
+Full Stack Development,Olivia Thompson,978-3132333435,2021,Web Development
+Rust for Systems Programming,William Garcia,978-3233343536,2022,Programming
+Docker and Kubernetes,Sophia Rodriguez,978-3334353637,2021,DevOps
+Microservices Architecture,James Wilson,978-3435363738,2020,Software Architecture
+React Native Mobile Apps,Emma Davis,978-3536373839,2022,Mobile Development
+Data Visualization Techniques,Noah Martinez,978-3637383940,2021,Data Science
+Machine Vision Systems,Ava Anderson,978-3738394041,2023,Computer Vision
+Natural Language Processing,Liam Thomas,978-3839404142,2022,Artificial Intelligence
+Robotics Programming,Isabella White,978-3940414243,2021,Robotics
+Bioinformatics Algorithms,Mason Harris,978-4041424344,2020,Bioinformatics
+Quantum Machine Learning,Charlotte Lewis,978-4142434445,2023,Quantum Computing
+Cryptography Principles,Ethan Walker,978-4243444546,2021,Cybersecurity
+FinTech Revolution,Amelia Hall,978-4344454647,2022,Financial Technology
+Augmented Reality Development,Benjamin Allen,978-4445464748,2023,AR/VR
+Virtual Reality Applications,Mia Young,978-4546474849,2022,AR/VR
+Smart Home Automation,Elijah King,978-4647484950,2021,Internet of Things
+Wearable Technology,Harper Wright,978-4748495051,2020,Internet of Things
+Green Computing,Evelyn Lopez,978-4849505152,2022,Sustainable Technology
+Cyber-Physical Systems,Alexander Scott,978-4950515253,2021,Internet of Things
+Edge Computing Fundamentals,Abigail Green,978-5051525354,2023,Cloud Computing
+Fog Computing Applications,Daniel Baker,978-5152535455,2022,Cloud Computing
+Serverless Architecture,Sofia Adams,978-5253545556,2021,Cloud Computing
+Progressive Web Apps,Matthew Nelson,978-5354555657,2020,Web Development
+GraphQL API Development,Scarlett Carter,978-5455565758,2022,Web Development
+Jamstack Web Development,Jackson Mitchell,978-5556575859,2021,Web Development
+Web Assembly Programming,Aria Phillips,978-5657585960,2023,Web Development
+TypeScript in Practice,Leo Campbell,978-5758596061,2022,Programming
+Functional Programming,Luna Parker,978-5859606162,2021,Programming
+Golang for Developers,Gabriel Evans,978-5960616263,2020,Programming
+Swift UI Development,Lily Bennett,978-6061626364,2022,Mobile Development
+Kotlin for Android,Julian Foster,978-6162636465,2021,Mobile Development
+Flutter Cross-Platform Apps,Zoe Price,978-6263646566,2023,Mobile Development
+Responsive Web Design,David Cooper,978-6364656667,2022,Web Development
+Sass and CSS Frameworks,Penelope Reed,978-6465666768,2021,Web Development
+Accessibility in Web Design,Andrew Bailey,978-6566676869,2020,Web Development
+SEO Optimization Techniques,Claire Coleman,978-6667686970,2022,Digital Marketing
+Content Management Systems,Ian Richardson,978-6768697071,2021,Web Development
+E-commerce Solutions,Audrey Brooks,978-6869707172,2023,E-commerce
+Payment Gateway Integration,Dominic Watson,978-6970717273,2022,E-commerce
+Digital Identity Management,Skylar Gray,978-7071727374,2021,Cybersecurity
+Biometric Authentication,Jaxon Hughes,978-7172737475,2020,Cybersecurity
+Zero Trust Security Model,Bella Price,978-7273747576,2022,Cybersecurity
+Penetration Testing Guide,Xavier Murphy,978-7374757677,2021,Cybersecurity
+Malware Analysis,Nora James,978-7475767778,2023,Cybersecurity
+Network Forensics,Eli Cooper,978-7576777879,2022,Cybersecurity
+Disaster Recovery Planning,Stella Butler,978-7677787980,2021,IT Management
+IT Service Management,Miles Richardson,978-7778798081,2020,IT Management
+DevSecOps Implementation,Hazel Simmons,978-7879808182,2022,DevOps
+Continuous Integration,Levi Perry,978-7980818283,2021,DevOps
+Infrastructure as Code,Aurora Bryant,978-8081828384,2023,DevOps
+Site Reliability Engineering,Caleb Alexander,978-8182838485,2022,DevOps
+Cloud Native Applications,Ruby Russell,978-8283848586,2021,Cloud Computing
+Multi-Cloud Strategies,Josiah Griffin,978-8384858687,2020,Cloud Computing
+Big Data Processing,Willow Diaz,978-8485868788,2022,Big Data
+Data Warehousing Solutions,Asher Hayes,978-8586878889,2021,Database
+NoSQL Database Systems,Ivy Kelly,978-8687888990,2023,Database
+Graph Database Applications,Lincoln Ross,978-8788899091,2022,Database
+Time Series Data Analysis,Emilia Morales,978-8889909192,2021,Data Science
+Predictive Analytics,Grayson Ortiz,978-8990919293,2020,Data Science
+Business Intelligence Tools,Violet Jenkins,978-9091929394,2022,Business Intelligence
+Data Mining Techniques,Ezra Sullivan,978-9192939495,2021,Data Science
+Statistical Computing,Autumn Cook,978-9293949596,2023,Data Science
+Deep Reinforcement Learning,Silas Rivera,978-9394959697,2022,Artificial Intelligence
+Computer Vision Projects,Madelyn Morgan,978-9495969798,2021,Computer Vision
+Speech Recognition Systems,Hudson Brooks,978-9596979899,2020,Artificial Intelligence
+Genetic Algorithms,Eliana Bailey,978-9697989900,2022,Artificial Intelligence
+Neural Networks Design,Sawyer Barnes,978-9798990001,2021,Artificial Intelligence
+Fuzzy Logic Systems,Isla Flores,978-9899000102,2023,Artificial Intelligence
+Expert Systems Development,Finn Washington,978-9900010203,2022,Artificial Intelligence
+Knowledge Representation,Lillian Wood,978-9001020304,2021,Artificial Intelligence
+Semantic Web Technologies,Kai Rogers,978-9102030405,2020,Web Development
+Ontology Engineering,Delilah Reed,978-9203040506,2022,Knowledge Management
+Information Retrieval,Theo Cook,978-9304050607,2021,Information Systems
+Digital Libraries,Esther Peterson,978-9405060708,2023,Information Systems
+Metadata Management,Felix Sanders,978-9506070809,2022,Information Systems
+Document Classification,Naomi Price,978-9607080910,2021,Information Systems
+Text Mining Applications,Oscar Bennett,978-9708091011,2020,Data Science
+Sentiment Analysis,Cora Hughes,978-9809101112,2022,Data Science
+Opinion Mining,Elliot Foster,978-9910111213,2021,Data Science
+Recommendation Systems,Leilani Barnes,978-9101112131,2023,Artificial Intelligence
+Personalization Algorithms,Malachi Gray,978-1011121314,2022,Artificial Intelligence
+User Experience Design,Selena Powell,978-1112131415,2021,Design
+Interaction Design Patterns,Jasper Long,978-1213141516,2020,Design
+Mobile UX Best Practices,Alina Hughes,978-1314151617,2022,Design
+Gamification Techniques,Beckett Foster,978-1415161718,2021,Game Development
+Game AI Programming,Rosalie Jenkins,978-1516171819,2023,Game Development
+3D Modeling and Animation,Rowan Peterson,978-1617181920,2022,Game Development
+Game Engine Architecture,Daphne Barnes,978-1718192021,2021,Game Development
+Virtual World Design,Milo Cooper,978-1819202122,2020,Game Development
+Augmented Reality Games,Thea Morgan,978-1920212223,2022,AR/VR
+Mixed Reality Applications,Rhys Butler,978-2021222324,2021,AR/VR
+Holographic Computing,June Richardson,978-2122232425,2023,AR/VR
+data structure,lutfi hakim,978-987576866,2025,ilmu teknologi
